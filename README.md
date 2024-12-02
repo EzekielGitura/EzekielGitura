@@ -6,9 +6,7 @@ A SOC Analyst who is self-driven and is also interested in front-end development
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GituraEzekiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EzekielWairimu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@WaweruEzekiel) 
 
 # 💻 Tech Stack:
-# Tools and Technologies  
 
-## Security Monitoring and SIEM Tools  
 # Tools and Technologies  
 
 ## Security Monitoring and SIEM Tools  
