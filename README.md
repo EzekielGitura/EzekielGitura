@@ -9,60 +9,64 @@ A SOC Analyst who is self-driven and is also interested in front-end development
 # Tools and Technologies  
 
 ## Security Monitoring and SIEM Tools  
-- [Splunk](https://www.splunk.com/)  
-- [Elastic Stack (ELK)](https://www.elastic.co/)  
-- [IBM QRadar](https://www.ibm.com/products/qradar-siem)  
-- [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim)  
+# Tools and Technologies  
+
+## Security Monitoring and SIEM Tools  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)  
+![Elastic Stack (ELK)](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)  
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)  
+![AlienVault OSSIM](https://img.shields.io/badge/AlienVault%20OSSIM-2AABD2?style=for-the-badge&logo=alienvault&logoColor=white)  
 
 ## Vulnerability Assessment Tools  
-- [Nessus](https://www.tenable.com/products/nessus)  
-- [OpenVAS](https://www.greenbone.net/en/openvas/)  
-- [Qualys](https://www.qualys.com/)  
+![Nessus](https://img.shields.io/badge/Nessus-00B4AB?style=for-the-badge&logo=tenable&logoColor=white)  
+![OpenVAS](https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge&logo=openvas&logoColor=white)  
+![Qualys](https://img.shields.io/badge/Qualys-E00034?style=for-the-badge&logo=qualys&logoColor=white)  
 
 ## Network Monitoring Tools  
-- [Wireshark](https://www.wireshark.org/)  
-- [SolarWinds Network Performance Monitor](https://www.solarwinds.com/network-performance-monitor)  
-- [PRTG Network Monitor](https://www.paessler.com/prtg)  
-- [Nagios](https://www.nagios.org/)  
-- [Zabbix](https://www.zabbix.com/)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![SolarWinds](https://img.shields.io/badge/SolarWinds-F37021?style=for-the-badge&logo=solarwinds&logoColor=white)  
+![PRTG](https://img.shields.io/badge/PRTG%20Network%20Monitor-1B5FA8?style=for-the-badge&logo=paessler&logoColor=white)  
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)  
+![Zabbix](https://img.shields.io/badge/Zabbix-DF0000?style=for-the-badge&logo=zabbix&logoColor=white)  
 
 ## Intrusion Detection and Prevention Systems (IDS/IPS)  
-- [Snort](https://www.snort.org/)  
-- [Suricata](https://suricata.io/)  
-- [Zeek (formerly Bro)](https://zeek.org/)  
+![Snort](https://img.shields.io/badge/Snort-FCC624?style=for-the-badge&logo=snort&logoColor=black)  
+![Suricata](https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge&logo=suricata&logoColor=white)  
+![Zeek](https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white)  
 
 ## Firewall Management Tools  
-- [pfSense](https://www.pfsense.org/)  
-- [Cisco ASA](https://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)  
+![pfSense](https://img.shields.io/badge/pfSense-1565C0?style=for-the-badge&logo=pfsense&logoColor=white)  
+![Cisco ASA](https://img.shields.io/badge/Cisco%20ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ## Endpoint Detection and Response (EDR)  
-- [CrowdStrike Falcon](https://www.crowdstrike.com/products/endpoint-security/)  
-- [SentinelOne](https://www.sentinelone.com/)  
-- [Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint)  
+![CrowdStrike Falcon](https://img.shields.io/badge/CrowdStrike-Falcon-F00?style=for-the-badge&logo=crowdstrike&logoColor=white)  
+![SentinelOne](https://img.shields.io/badge/SentinelOne-6718D0?style=for-the-badge&logo=sentinelone&logoColor=white)  
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white)  
 
 ## Cloud Security Tools  
-- [AWS GuardDuty](https://aws.amazon.com/guardduty/)  
-- [Azure Security Center](https://azure.microsoft.com/en-us/products/defender-for-cloud/)  
-- [Google Cloud Security Command Center (SCC)](https://cloud.google.com/security-command-center)  
+![AWS GuardDuty](https://img.shields.io/badge/AWS%20GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure Security Center](https://img.shields.io/badge/Azure%20Defender-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Google SCC](https://img.shields.io/badge/Google%20Cloud%20SCC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ## System Administration and Network Tools  
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)  
-- [GNS3](https://www.gns3.com/)  
-- [PuTTY](https://www.putty.org/)  
-- [SolarWinds Engineer’s Toolset](https://www.solarwinds.com/engineers-toolset)  
-- [NetFlow Analyzer](https://www.manageengine.com/products/netflow/)  
-- [Ansible](https://www.ansible.com/)  
-- [Kali Linux](https://www.kali.org/)  
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![GNS3](https://img.shields.io/badge/GNS3-FF6C2C?style=for-the-badge&logo=gns3&logoColor=white)  
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)  
+![SolarWinds](https://img.shields.io/badge/SolarWinds-F37021?style=for-the-badge&logo=solarwinds&logoColor=white)  
+![NetFlow Analyzer](https://img.shields.io/badge/NetFlow%20Analyzer-005A9C?style=for-the-badge&logo=manageengine&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 
 ## Scripting and Automation Tools  
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-- ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 
 ## Log Analysis and Reporting Tools  
-- [Graylog](https://www.graylog.org/)  
-- [LogRhythm](https://logrhythm.com/)  
-- [Sumo Logic](https://www.sumologic.com/)
+![Graylog](https://img.shields.io/badge/Graylog-000000?style=for-the-badge&logo=graylog&logoColor=white)  
+![LogRhythm](https://img.shields.io/badge/LogRhythm-0079C1?style=for-the-badge&logo=logrhythm&logoColor=white)  
+![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-003366?style=for-the-badge&logo=sumologic&logoColor=white)  
+
 
 ____
 
