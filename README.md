@@ -1,6 +1,21 @@
+<pre>
+<code>
+<span style="color:#00FF00">$ whoami</span>
+<span style="color:#00CCFF">> Ezekiel Waweru</span>
+
+<span style="color:#00FF00">$ echo "Fullstack Dev + Blue Team + DevOps"</span>
+<span style="color:#00CCFF">> Building secure systems since 2024</span>
+
+<span style="color:#00FF00">$ ./start_profile.sh</span>
+<span style="color:#00CCFF">> Loading... ✅ Ready for collaboration!</span>
+</code>
+</pre>
+
+---
+
 # 💫 About Me
 
-Hey there 👋 I’m Ezekiel — part full-stack developer, part blue-team sentinel, part DevOps tinkerer, and always caffeinated by curiosity. I build secure, scalable, and elegant systems at the intersection of **JavaScript**, **cybersecurity**, and **cloud-native DevOps**.
+Hey there 👋 — part full-stack developer, part blue-team sentinel, part DevOps tinkerer, running on coffee and driven by curiosity. I build secure, scalable, and elegant systems at the intersection of **JavaScript**, **cybersecurity**, and **cloud-native DevOps**.
 
 💻 By day, I code dynamic MERN stack apps that solve real-world problems.  
 🛡️ By night, I monitor threat landscapes, respond to incidents, and harden infrastructures.  
@@ -19,8 +34,24 @@ Hey there 👋 I’m Ezekiel — part full-stack developer, part blue-team senti
 📫 Let’s connect:
 Whether you’re a developer, recruiter, or fellow tech mind — DM me for collaborations, ideas, or to swap favorite terminal aliases.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GituraEzekiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EzekielWairimu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@WaweruEzekiel)
+<h2>🌐 My Socials</h2>
+<p align="center">
+  <a href="https://instagram.com/GituraEzekiel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/EzekielWairimu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://medium.com/@WaweruEzekiel" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>&nbsp;
+  <a href="https://kassiopei.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://blog.kassiopei.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-F0DB4F?logo=wordpress&logoColor=black" alt="Blog" />
+  </a>
+</p>
 
 ---
 
@@ -33,36 +64,66 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
 ![](https://github-profile-trophy.vercel.app/?username=EzekielGitura&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## 💼 Projects I'm Proud Of
 
-🛡️ **CryptoSage** – Real-Time Cryptocurrency Advisor with Built-in Risk Assessment  
-> A Python-based crypto advisor chatbot using Gradio, real-time API integration, and profitability/sustainability scoring.<br>
-> 🧠 NLP-driven, rule-based engine<br>
-> 📈 Live price fetching<br>
-> 🔐 Built with secure coding practices<br>  
-[Repo Link](https://github.com/EzekielGitura/cryptosage)
+<h2>🏆 Featured Projects</h2>
 
-🔧 **SprintCare Garage Management System (SCA-GMS)** – Auto Garage Fullstack Web App  
-> Tracks commissions, employee check-ins, car washes, and daily revenue in a mobile-first React + Express stack.<br>  
-> 🌍 PostgreSQL DB<br>
-> 🛠️ Role-based access<br>
-> 📩 Owner notifications via dashboard<br>  
-[Repo Link](https://github.com/EzekielGitura/sprintcare-gms)
+<div style="margin: 16px 0;">
+  <h3>🛡️ <a href="https://github.com/EzekielGitura/cryptosage" target="_blank">CryptoSage</a> – Real-Time Crypto Advisor</h3>
+  <p><em>A Python-powered chatbot using Gradio, NLP logic, and real-time APIs to score crypto sustainability & risk.</em></p>
+  <ul>
+    <li>🧠 NLP-driven decision engine</li>
+    <li>📈 Live price & trend analysis</li>
+    <li>🔐 Secure coding practices</li>
+    <li>🤖 Rule-based scoring for risk & sustainability</li>
+  </ul>
+</div>
 
-📦 **Blue Team Labs** – SOC Analyst Home Lab Setup  
-> An evolving collection of detection rules, log analysis configs, and blue team tooling for security analysts.<br>  
-> 🚨 Elastic Stack<br>
-> 🧪 Zeek + Suricata configs<br>
-> 📚 Threat-hunting case studies<br>  
-[Repo Link](https://github.com/EzekielGitura/blue-team-labs)
+<div style="margin: 16px 0;">
+  <h3>🔧 <a href="https://github.com/EzekielGitura/sprintcare-gms" target="_blank">SprintCare GMS</a> – Garage Management System</h3>
+  <p><em>Fullstack React + Express app with role-based access, PostgreSQL, and owner dashboards.</em></p>
+  <ul>
+    <li>🚗 Mobile-first design for field teams</li>
+    <li>💼 Role-based access (admin, mechanic, owner)</li>
+    <li>💬 Real-time notifications & status updates</li>
+    <li>💰 Revenue tracking & commission calculations</li>
+  </ul>
+</div>
 
-🚀 **DevOps Pipelines as Code** – Automating Deployments and Testing  
-> Hands-on CI/CD pipelines using GitHub Actions, Docker, and bash scripting.<br>  
-> 🛠️ End-to-end automation for Node.js + Python projects<br>  
-[Repo Link](https://github.com/EzekielGitura/devops-pipelines)
+<div style="margin: 16px 0;">
+  <h3>📦 <a href="https://github.com/EzekielGitura/blue-team-labs" target="_blank">Blue Team Labs</a> – SOC Analyst Home Lab</h3>
+  <p><em>Detection rules, Zeek/Suricata configs, and threat-hunting case studies.</em></p>
+  <ul>
+    <li>🚨 ELK Stack integration for log analysis</li>
+    <li>🧪 Custom Suricata rules for malware detection</li>
+    <li>🧭 MITRE ATT&CK mapping for real-world scenarios</li>
+    <li>🔍 Packet capture & analysis with Wireshark</li>
+    <li>🔐 Hands-on incident response playbooks</li>
+  </ul>
+</div>
 
-📊 **Cyber Threat Intel Dashboard** *(Coming Soon)*  
-> A web dashboard visualizing real-time threat feeds (AbuseIPDB, VirusTotal) using React, Flask & Chart.js.
+<div style="margin: 16px 0;">
+  <h3>🚀 <a href="https://github.com/EzekielGitura/devops-pipelines" target="_blank">DevOps Pipelines</a> – CI/CD as Code</h3>
+  <p><em>Automated testing & deployment for Node.js/Python with GitHub Actions & Docker.</em></p>
+  <ul>
+    <li>🔁 End-to-end CI/CD pipelines</li>
+    <li>🐳 Containerized workflows with Docker</li>
+    <li>🧪 Automated testing (unit, integration)</li>
+    <li>☁️ Deployments to Render, Vercel, and AWS</li>
+    <li>🔐 Secrets management & secure workflows</li>
+  </ul>
+</div>
+
+<div style="margin: 16px 0;">
+  <h3>📊 <a href="https://github.com/EzekielGitura/cyber-threat-dashboard" target="_blank">Cyber Threat Intel Dashboard</a> <em>(Coming Soon)</em></h3>
+  <p><em>Visualizing AbuseIPDB & VirusTotal feeds with React, Flask, and Chart.js.</em></p>
+  <ul>
+    <li>🌐 Real-time threat maps</li>
+    <li>🔍 IOC (Indicator of Compromise) lookup</li>
+    <li>🎨 Interactive UI with dynamic filtering</li>
+    <li>🔐 API key security & rate limiting</li>
+    <li>📉 Historical trend analysis</li>
+  </ul>
+</div>
 
 ---
 
@@ -86,7 +147,7 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
 ## 🧰 Fluent In  
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-ba,pdge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Networking-0052CC?style=for-the-badge)
 ![](https://img.shields.io/badge/Incident_Response-E63946?style=for-the-badge)
 ![](https://img.shields.io/badge/Ethical_Hacking-2C2C2C?style=for-the-badge&logo=hackthebox)
@@ -94,110 +155,198 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
 
 ---
 
-## 📈 Career Journeys (Interactive)
+<h2>📈 Career Journeys (Interactive)</h2>
 
-### 🔥 MERN Stack Developer Journey
-```mermaid
+<details>
+  <summary>🔥 Fullstack MERN Developer Path – From Zero to Job-Ready</summary>
 
-gantt
-  title MERN Stack Developer Journey 🛠️
-  dateFormat  YYYY-MM-DD
-  section Foundations
-  HTML/CSS/JS - Basics               :done,    f1, 2025-01-01, 4w
-  Responsive Web Design             :done,    f2, 2025-01-29, 2w
-  TypeScript Basics                 :done,    f3, 2025-02-12, 2w
-  Git & GitHub                      :done,    f4, 2025-02-26, 1w
-  Funza Capstone (HTML/CSS/JS)      :done,    f5, 2025-03-01, 2w
+  <p><strong>📅 Timeline: Feb 2025 to July 2025</strong></p>
 
-  section Programming Logic & Backend
-  Python Fundamentals               :done,    b1, 2025-03-15, 3w
-  COVID-19 Tracker (Python Project) :done,    b2, 2025-04-05, 2w
-  REST APIs                         :done,    b3, 2025-04-15, 1w
-  MongoDB + Mongoose                :done,    b4, 2025-04-22, 1w
-  Express.js                        :done,    b5, 2025-04-29, 1w
+  <p><strong>Powerlearn Project Software Developer Bootcamp</strong></p>
 
-  section Fullstack Core
-  React.js                          :done,    s1, 2025-05-01, 2w
-  Node.js                           :done,    s2, 2025-05-15, 2w
-  MERN Stack Integration            :done,    s3, 2025-06-01, 3w
-  Authentication + JWT             :done,    s4, 2025-06-21, 1w
-  Task Manager Project              :done,    s5, 2025-06-25, 2w
-  WebSockets & Postman              :done,    s6, 2025-07-10, 2w
-  Pitch Deck & Demo Video           :done,    s7, 2025-07-25, 1w
+  <table width="100%" style="font-size:14px; margin: 16px 0;">
+    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
+    
+    <tr><td rowspan="5"><strong>Foundations</strong></td><td>HTML, CSS, JavaScript (ES6+)</td><td>May - Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Responsive Design (Flexbox, Grid)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Git & GitHub (Commits, Branches, PRs)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>TypeScript Basics</td><td>March 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Funza Capstone (Static Site)</td>March 2025</td><td>✅ Completed</td></tr>
 
-```
-### Python Learning Journey
-```mermaid
-gantt
-  title Python Developer Journey 🐍
-  dateFormat  YYYY-MM-DD
-  section Core Python
-  Syntax & Variables                :done,    p1, 2025-01-01, 2w
-  Control Flow & Loops             :done,    p2, 2025-01-15, 2w
-  Functions & Modules              :done,    p3, 2025-02-01, 2w
-  Data Structures (Lists, Dicts)   :done,    p4, 2025-02-15, 2w
+    <tr><td rowspan="6"><strong>Backend & Logic</strong></td><td>Python Fundamentals</td><td>April 2025</td><td>✅ Completed</td></tr>
+    <tr><td>REST API Concepts</td><td>April 2025</td><td>✅ Completed</td></tr>
+    <tr><td>MongoDB + Mongoose (NoSQL)</td><td>May 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Express.js (Routing, Middleware)</td><td>May 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Authentication (JWT, Bcrypt)</td><td>May 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Task Manager API (Node + Express)</td><td>June 2025</td><td>✅ Completed</td></tr>
 
-  section Intermediate Python
-  File Handling                    :done,    p5, 2025-03-01, 1w
-  Error Handling                   :done,    p6, 2025-03-08, 1w
-  APIs with `requests`             :done,    p7, 2025-03-15, 1w
-  OOP in Python                    :done,    p8, 2025-03-22, 1w
+    <tr><td rowspan="7"><strong>Frontend & Fullstack</strong></td><td>React.js (Components, Hooks)</td><td>May 2025</td><td>✅ Completed</td></tr>
+    <tr><td>State Management (Context API)</td><td>June 2025</td><td>✅ Completed</td></tr>
+    <tr><td>React + Express Integration</td><td>June 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Full MERN Stack App (SprintCare GMS)</td><td>June 2025</td><td>✅ Completed</td></tr>
+    <tr><td>WebSockets (Real-Time Updates)</td><td>June 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Testing (Jest, Postman)</td><td>June 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Deployment (Render, Vercel, AWS)</td><td>July 2025</td><td>✅ Completed</td></tr>
 
-  section Real-World Application
-  Project: COVID-19 Tracker        :done,    p9, 2025-04-01, 2w
-  Project: CLI Tools               :active,  p10, 2025-04-15, 1w
-  Git & GitHub                     :done,    p11, 2025-04-20, 1w
-```
+    <tr><td rowspan="3"><strong>Advanced Fullstack</strong></td><td>TypeScript in React (Next.js)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
+    <tr><td>CI/CD for MERN Apps</td><td>Jul 2025</td><td>🔄 Active</td></tr>
+    <tr><td>Performance & Security Hardening</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  </table>
 
-### SOC & Cybersecurity Analyst Progression
-```mermaid
-    Foundation
-        IT Support & Troubleshooting         : 2w
-        Networking (Cisco, HCIA WLAN)       : 3w
-        Linux (Kali, Ubuntu, WSL)           : 6w
-        Security+ & Cyber Hygiene           : 1w
-    Analyst Phase
-        SIEM & Log Analysis                 : 2w
-        Threat Intelligence & MITRE ATT&CK  : 2w
-        Incident Response Drills            : 5w
-        Wireshark & Packet Analysis         : 4w
-    Specialization
-        SOC Tier 1 Real-Time Monitoring     : 4w
-        Vulnerability Assessment            : 2w
-        CTFs & Red/Blue Team Exercises      : ongoing
-        Cloud Security + IAM                : ongoing
-```
+  <h3>💡 Skill Mastery</h3>
+  <p><strong>React</strong>: ●●●●○ (80%)</p>
+  <p><strong>Node.js</strong>: ●●●●○ (80%)</p>
+  <p><strong>Express</strong>: ●●●●● (90%)</p>
+  <p><strong>MongoDB</strong>: ●●●●○ (75%)</p>
+  <p><strong>Fullstack Integration</strong>: ●●●●○ (80%)</p>
+  <p><strong>Authentication & Security</strong>: ●●●●○ (75%)</p>
+</details>
 
-### 🚀 DevOps / Cloud Path
-```mermaid
-gantt
-title DevOps Cloud Journey
-sections
-section Dev Foundations
-Linux & Shell Scripting :done, dev1, 2024-04-01, 7w
-Git & GitHub            :done, dev2, 2024-08-15, 3w
-section CI/CD + Containers
-Docker & Docker Compose :done, dev3, 2023-04-01, 2w
-CI/CD with GitHub Actions:done, dev4, 2023-04-15, 1w
-section Monitoring + Infra as Code
-Cloud (AWS, Render)     :active, dev5, 2025-02-01, 4w
-IaC (Terraform)         :active, dev6, 2023-01-20, 4w
-```
+<details class="details">
+<details>
+  <summary>🐍 Python Developer Path – From Scripting to AI & Automation</summary>
+
+  <p><strong>📅 Timeline: Feb 2025 – April 2025</strong></p>
+
+  <table width="100%" style="font-size:14px; margin: 16px 0;">
+    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
+    
+    <tr><td rowspan="4"><strong>Core Python</strong></td><td>Syntax, Variables, Data Types</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Control Flow (If/Else, Loops)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Functions, Modules, Packages</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Data Structures (Lists, Dicts, Sets)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="5"><strong>Intermediate Python</strong></td><td>File Handling (Read/Write JSON, CSV)</td><td>March 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Error & Exception Handling</td><td>March 2025</td><td>✅ Completed</td></tr>
+    <tr><td>APIs with <code>requests</code> & JSON</td><td>March 2025</td><td>✅ Completed</td></tr>
+    <tr><td>OOP (Classes, Inheritance, Methods)</td><td>March 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Virtual Environments (venv, pip)</td><td>April 2025</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="5"><strong>Real-World Apps</strong></td><td>Project: COVID-19 Tracker (API + CLI)</td><td>April 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Project: CLI Tools (Automation Scripts)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Web Scraping with <code>BeautifulSoup</code></td><td>Mar 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Automation with <code>smtplib</code>, <code>os</code>, <code>shutil</code></td><td>Apr 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Git & GitHub (Project Versioning)</td><td>May 2025</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="4"><strong>AI & Advanced</strong></td><td>LangChain & LLM Tooling</td><td>Jun 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Building AI Agents (Multi-Agent Workflows)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
+    <tr><td>Integrating LLMs into Security Tools</td><td>Ongoing</td><td>🔄 Active</td></tr>
+    <tr><td>Python for SIEM & Threat Intel Automation</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  </table>
+
+  <h3>💡 Skill Mastery</h3>
+  <p><strong>Core Python</strong>: ●●●●● (90%)</p>
+  <p><strong>OOP & Scripting</strong>: ●●●●○ (80%)</p>
+  <p><strong>APIs & Web Scraping</strong>: ●●●●● (90%)</p>
+  <p><strong>Automation</strong>: ●●●●● (90%)</p>
+  <p><strong>AI & LangChain</strong>: ●●●●○ (75%)</p>
+</details>
+
+<details>
+  <summary>🛡️ SOC & Cybersecurity Analyst Path – From Foundation to Blue Team Pro</summary>
+
+  <p><strong>📅 Timeline: May 2024 – Present</strong></p>
+
+  <table width="100%" style="font-size:14px; margin: 16px 0;">
+    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
+    
+    <tr><td rowspan="4"><strong>Foundation</strong></td><td>IT Support & Troubleshooting</td><td>May - Jun 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Networking (TCP/IP, DNS, Cisco, HCIA WLAN)</td><td>Jun - Jul 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Linux (Kali, Ubuntu, WSL, Bash)</td><td>Jul - Sep 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Security+ & Cyber Hygiene</td><td>Oct 2024</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="5"><strong>Analyst Phase</strong></td><td>SIEM & Log Analysis (ELK Stack)</td><td>Nov - Dec 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Threat Intelligence & MITRE ATT&CK</td><td>Jan 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Incident Response Drills & Playbooks</td><td>Feb - Mar 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Wireshark & Packet Analysis</td><td>Apr 2025</td><td>✅ Completed</td></tr>
+    <tr><td>YARA & Sigma Rules for Detection</td><td>May 2025</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="6"><strong>Specialization</strong></td><td>SOC Tier 1 Monitoring (Real-Time)</td><td>Jun 2025 - Present</td><td>🔄 Active</td></tr>
+    <tr><td>Vulnerability Assessment (Nessus, OpenVAS)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
+    <tr><td>CTFs & Red/Blue Team Exercises</td><td>Ongoing</td><td>🔄 Active</td></tr>
+    <tr><td>Cloud Security (AWS IAM, Azure AD)</td><td>Ongoing</td><td>🔄 Active</td></tr>
+    <tr><td>Endpoint Detection & Response (EDR)</td><td>Ongoing</td><td>🔄 Active</td></tr>
+    <tr><td>Zero Trust & Identity Security</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  </table>
+
+  <h3>💡 Skill Mastery</h3>
+  <p><strong>SIEM & Log Analysis</strong>: ●●●●○ (75%)</p>
+  <p><strong>Incident Response</strong>: ●●●●○ (80%)</p>
+  <p><strong>Threat Intelligence</strong>: ●●●●○ (75%)</p>
+  <p><strong>Network Security</strong>: ●●●●○ (80%)</p>
+  <p><strong>Cloud Security</strong>: ●●●○○ (60%)</p>
+  <p><strong>EDR & Endpoint Monitoring</strong>: ●●●●○ (75%)</p>
+</details>
+
+<details>
+  <summary>🚀 DevOps / Cloud Engineer Path – From Scripting to IaC & CI/CD</summary>
+
+  <p><strong>📅 Timeline: May 2024 – Present</strong></p>
+
+  <table width="100%" style="font-size:14px; margin: 16px 0;">
+    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
+    
+    <tr><td rowspan="3"><strong>Dev Foundations</strong></td><td>Linux & Shell Scripting (Bash)</td><td>May - Jul 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Git & GitHub (Workflows, PRs)</td><td>Aug 2024</td><td>✅ Completed</td></tr>
+    <tr><td>SSH, Permissions, System Monitoring</td><td>Sep 2024</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="4"><strong>CI/CD & Containers</strong></td><td>Docker (Images, Containers, Volumes)</td><td>Oct 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Docker Compose & Multi-Service Apps</td><td>Nov 2024</td><td>✅ Completed</td></tr>
+    <tr><td>CI/CD with GitHub Actions</td><td>Dec 2024</td><td>✅ Completed</td></tr>
+    <tr><td>Automated Testing & Deployment</td><td>Jan 2025</td><td>✅ Completed</td></tr>
+
+    <tr><td rowspan="5"><strong>Cloud & IaC</strong></td><td>Cloud Platforms (AWS, Render, GCP)</td><td>Feb - Apr 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Infrastructure as Code (Terraform)</td><td>May - Jun 2025</td><td>✅ Completed</td></tr>
+    <tr><td>Serverless (AWS Lambda, Cloud Functions)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
+    <tr><td>Kubernetes Basics (k8s, Helm)</td><td>Ongoing</td><td>🔄 Active</td></tr>
+    <tr><td>Monitoring (Prometheus, Grafana)</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  </table>
+
+  <h3>💡 Skill Mastery</h3>
+  <p><strong>Docker</strong>: ●●●●● (90%)</p>
+  <p><strong>GitHub Actions</strong>: ●●●●● (90%)</p>
+  <p><strong>CI/CD Pipelines</strong>: ●●●●● (90%)</p>
+  <p><strong>Terraform (IaC)</strong>: ●●●○○ (60%)</p>
+  <p><strong>AWS & Cloud</strong>: ●●●●○ (75%)</p>
+  <p><strong>Kubernetes</strong>: ●●●○○ (60%)</p>
+</details>
 
 ---
 
 ## 🧮 Contact Info
-```bash
-┌──────────────────────────────────────────────┐
-│     Ezekiel Waweru      │
-├──────────────────────────────────────────────┤
-│  📫 Email     : gituraezekiel@gmail.com      │
-│  🧠 Mobile    : +254727550182      │
-│  📝 Blog      : blog.kassiopei.tech           │
-│  🧰 Portfolio : kassiopei.vercel.app          │
-│  📍 Location  : Kiambu, Kenya                │
-└──────────────────────────────────────────────┘
-```
+
+<h2>💬 Let’s Build Something Awesome</h2>
+
+<p>Whether you're a fellow developer, a recruiter, or just someone who loves talking about <strong>secure code</strong>, <strong>blue team tactics</strong>, or <strong>AI-powered automation</strong> — I’d love to hear from you.</p>
+
+<div style="background-color:#f6f8fa; border-radius:12px; padding:16px; margin:16px 0; font-family:monospace; font-size:14px; line-height:1.6;">
+  <strong>📬 How to Reach Me:</strong><br>
+  • <strong>Email</strong>: <a href="mailto:gituraezekiel@gmail.com">gituraezekiel@gmail.com</a><br>
+  • <strong>Portfolio</strong>: <a href="https://kassiopei.vercel.app" target="_blank">kassiopei.vercel.app</a><br>
+  • <strong>Blog</strong>: <a href="https://blog.kassiopei.tech" target="_blank">blog.kassiopei.tech</a><br>
+  • <strong>Mobile (WhatsApp)</strong>: <a href="https://wa.me/254727550182" target="_blank">+254 727 550182</a><br>
+  • <strong>Location</strong>: Kiambu, Kenya 🇰🇪
+</div>
+
+<p><strong>I’m always open to:</strong></p>
+<ul>
+  <li>💬 <strong>Chats</strong> about fullstack dev, SOC workflows, or automating the boring stuff</li>
+  <li>🤝 <strong>Collaborations</strong> on open-source projects (especially devtools, security tooling, or AI agents)</li>
+  <li>🎓 <strong>Mentorship</strong> — whether you're starting out or leveling up</li>
+  <li>📢 <strong>Invitations</strong> to speak, contribute, or hack together</li>
+</ul>
+
+<p><strong>Want to break the ice?</strong> Just hit me with one of these:</p>
+<blockquote style="border-left: 4px solid #61DAFB; margin: 16px 0; padding: 8px 16px; background-color:#f6f8fa;">
+  🔹 “What’s your favorite terminal alias?”<br>
+  🔹 “How would you secure a MERN app from day one?”<br>
+  🔹 “What’s your go-to move in a CTF?”<br>
+  🔹 “Which AI agent framework are you watching right now?”
+</blockquote>
+
+<p align="center" style="font-style:italic; color:#555;">
+  <strong>Welcome to my digital workshop.</strong> 🧰✨
+</p>
 ---
 
 ## 🚀 Currently Learning  
