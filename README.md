@@ -45,13 +45,6 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
   <a href="https://medium.com/@WaweruEzekiel" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
   </a>&nbsp;
-  <a href="https://kassiopei.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://blog.kassiopei.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-F0DB4F?logo=wordpress&logoColor=black" alt="Blog" />
-  </a>
-</p>
 
 ---
 
@@ -155,160 +148,269 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
 
 ---
 
-<h2>📈 Career Journeys (Interactive)</h2>
+<h2>📈 Career Journeys</h2>
 
 <details>
-  <summary>🔥 Fullstack MERN Developer Path – From Zero to Job-Ready</summary>
+  <summary>🔥 Fullstack MERN Developer Path</summary>
 
-  <p><strong>📅 Timeline: Feb 2025 to July 2025</strong></p>
-
+  <p><strong>📅 Timeline: Feb 2025 – July 2025</strong></p>
   <p><strong>Powerlearn Project Software Developer Bootcamp</strong></p>
 
-  <table width="100%" style="font-size:14px; margin: 16px 0;">
-    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
-    
-    <tr><td rowspan="5"><strong>Foundations</strong></td><td>HTML, CSS, JavaScript (ES6+)</td><td>May - Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Responsive Design (Flexbox, Grid)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Git & GitHub (Commits, Branches, PRs)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>TypeScript Basics</td><td>March 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Funza Capstone (Static Site)</td>March 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="6"><strong>Backend & Logic</strong></td><td>Python Fundamentals</td><td>April 2025</td><td>✅ Completed</td></tr>
-    <tr><td>REST API Concepts</td><td>April 2025</td><td>✅ Completed</td></tr>
-    <tr><td>MongoDB + Mongoose (NoSQL)</td><td>May 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Express.js (Routing, Middleware)</td><td>May 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Authentication (JWT, Bcrypt)</td><td>May 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Task Manager API (Node + Express)</td><td>June 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="7"><strong>Frontend & Fullstack</strong></td><td>React.js (Components, Hooks)</td><td>May 2025</td><td>✅ Completed</td></tr>
-    <tr><td>State Management (Context API)</td><td>June 2025</td><td>✅ Completed</td></tr>
-    <tr><td>React + Express Integration</td><td>June 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Full MERN Stack App (SprintCare GMS)</td><td>June 2025</td><td>✅ Completed</td></tr>
-    <tr><td>WebSockets (Real-Time Updates)</td><td>June 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Testing (Jest, Postman)</td><td>June 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Deployment (Render, Vercel, AWS)</td><td>July 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="3"><strong>Advanced Fullstack</strong></td><td>TypeScript in React (Next.js)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
-    <tr><td>CI/CD for MERN Apps</td><td>Jul 2025</td><td>🔄 Active</td></tr>
-    <tr><td>Performance & Security Hardening</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  <h4>📦 Core Technologies</h4>
+  <table>
+    <thead>
+      <tr><th>Category</th><th>Technologies</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Languages</strong></td><td>HTML, CSS, JavaScript (ES6+), TypeScript, Python, Bash</td></tr>
+      <tr><td><strong>Frontend</strong></td><td>React.js, Next.js, Tailwind CSS, Material UI, Redux Toolkit</td></tr>
+      <tr><td><strong>Backend</strong></td><td>Node.js, Express.js, REST, GraphQL, WebSockets</td></tr>
+      <tr><td><strong>Databases</strong></td><td>MongoDB, Mongoose, PostgreSQL, Redis</td></tr>
+      <tr><td><strong>Tooling</strong></td><td>Git, GitHub, ESLint, Prettier, Postman, VS Code</td></tr>
+      <tr><td><strong>Testing</strong></td><td>Jest, Supertest, React Testing Library, Cypress</td></tr>
+      <tr><td><strong>Deployment</strong></td><td>Render, Vercel, AWS (EC2, S3, Route53)</td></tr>
+      <tr><td><strong>DevOps</strong></td><td>Docker, GitHub Actions, CI/CD pipelines, PM2</td></tr>
+      <tr><td><strong>Security</strong></td><td>JWT, Bcrypt, OAuth 2.0, Helmet.js, Rate Limiting</td></tr>
+      <tr><td><strong>Modern Practices</strong></td><td>PWA, SSR, Serverless Functions, Accessibility (a11y)</td></tr>
+      <tr><td><strong>AI & Intelligence</strong></td><td>LLM Integration (LangChain), OpenAI APIs, Chatbot UX</td></tr>
+    </tbody>
   </table>
 
-  <h3>💡 Skill Mastery</h3>
-  <p><strong>React</strong>: ●●●●○ (80%)</p>
-  <p><strong>Node.js</strong>: ●●●●○ (80%)</p>
-  <p><strong>Express</strong>: ●●●●● (90%)</p>
-  <p><strong>MongoDB</strong>: ●●●●○ (75%)</p>
-  <p><strong>Fullstack Integration</strong>: ●●●●○ (80%)</p>
-  <p><strong>Authentication & Security</strong>: ●●●●○ (75%)</p>
-</details>
-
-<details class="details">
-<details>
-  <summary>🐍 Python Developer Path – From Scripting to AI & Automation</summary>
-
-  <p><strong>📅 Timeline: Feb 2025 – April 2025</strong></p>
-
-  <table width="100%" style="font-size:14px; margin: 16px 0;">
-    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
-    
-    <tr><td rowspan="4"><strong>Core Python</strong></td><td>Syntax, Variables, Data Types</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Control Flow (If/Else, Loops)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Functions, Modules, Packages</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Data Structures (Lists, Dicts, Sets)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="5"><strong>Intermediate Python</strong></td><td>File Handling (Read/Write JSON, CSV)</td><td>March 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Error & Exception Handling</td><td>March 2025</td><td>✅ Completed</td></tr>
-    <tr><td>APIs with <code>requests</code> & JSON</td><td>March 2025</td><td>✅ Completed</td></tr>
-    <tr><td>OOP (Classes, Inheritance, Methods)</td><td>March 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Virtual Environments (venv, pip)</td><td>April 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="5"><strong>Real-World Apps</strong></td><td>Project: COVID-19 Tracker (API + CLI)</td><td>April 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Project: CLI Tools (Automation Scripts)</td><td>Feb 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Web Scraping with <code>BeautifulSoup</code></td><td>Mar 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Automation with <code>smtplib</code>, <code>os</code>, <code>shutil</code></td><td>Apr 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Git & GitHub (Project Versioning)</td><td>May 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="4"><strong>AI & Advanced</strong></td><td>LangChain & LLM Tooling</td><td>Jun 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Building AI Agents (Multi-Agent Workflows)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
-    <tr><td>Integrating LLMs into Security Tools</td><td>Ongoing</td><td>🔄 Active</td></tr>
-    <tr><td>Python for SIEM & Threat Intel Automation</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  <h4>📈 Skill Visualization</h4>
+  <table>
+    <thead>
+      <tr><th>Skill</th><th>Mastery Level</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>React.js</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Next.js</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>Node.js</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Express.js</td><td>●●●●● (90%)</td></tr>
+      <tr><td>MongoDB</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>PostgreSQL</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>GraphQL</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>Docker</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>CI/CD</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Testing (Jest/Cypress)</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Authentication & Security</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>OpenAI/LLM Tooling</td><td>●●●○○ (60%)</td></tr>
+    </tbody>
   </table>
 
-  <h3>💡 Skill Mastery</h3>
-  <p><strong>Core Python</strong>: ●●●●● (90%)</p>
-  <p><strong>OOP & Scripting</strong>: ●●●●○ (80%)</p>
-  <p><strong>APIs & Web Scraping</strong>: ●●●●● (90%)</p>
-  <p><strong>Automation</strong>: ●●●●● (90%)</p>
-  <p><strong>AI & LangChain</strong>: ●●●●○ (75%)</p>
+  <h4>🧠 Practical Projects</h4>
+  <ul>
+    <li><strong>SprintCare GMS</strong> – Full MERN Stack App</li>
+    <li><strong>Task Manager API</strong> – RESTful backend with JWT & MongoDB</li>
+    <li><strong>Funza Capstone</strong> – Static Site with custom responsive layout</li>
+    <li><strong>Realtime Chat App</strong> – WebSockets + Express</li>
+    <li><strong>DevSec Portal</strong> – Auth & security hardened frontend</li>
+    <li><strong>AI-Powered Job Assistant</strong> – LLM-enhanced React UI</li>
+  </ul>
 </details>
 
 <details>
-  <summary>🛡️ SOC & Cybersecurity Analyst Path – From Foundation to Blue Team Pro</summary>
+  <summary>⚡ Python Developer Path – From Automation to AI Architect</summary>
 
-  <p><strong>📅 Timeline: May 2024 – Present</strong></p>
+  <p><strong>📅 Timeline: Jan 2025 – July 2025</strong></p>
+  <p><strong>Powerlearn Project Software Developer Bootcamp</strong></p>
 
-  <table width="100%" style="font-size:14px; margin: 16px 0;">
-    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
-    
-    <tr><td rowspan="4"><strong>Foundation</strong></td><td>IT Support & Troubleshooting</td><td>May - Jun 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Networking (TCP/IP, DNS, Cisco, HCIA WLAN)</td><td>Jun - Jul 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Linux (Kali, Ubuntu, WSL, Bash)</td><td>Jul - Sep 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Security+ & Cyber Hygiene</td><td>Oct 2024</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="5"><strong>Analyst Phase</strong></td><td>SIEM & Log Analysis (ELK Stack)</td><td>Nov - Dec 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Threat Intelligence & MITRE ATT&CK</td><td>Jan 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Incident Response Drills & Playbooks</td><td>Feb - Mar 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Wireshark & Packet Analysis</td><td>Apr 2025</td><td>✅ Completed</td></tr>
-    <tr><td>YARA & Sigma Rules for Detection</td><td>May 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="6"><strong>Specialization</strong></td><td>SOC Tier 1 Monitoring (Real-Time)</td><td>Jun 2025 - Present</td><td>🔄 Active</td></tr>
-    <tr><td>Vulnerability Assessment (Nessus, OpenVAS)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
-    <tr><td>CTFs & Red/Blue Team Exercises</td><td>Ongoing</td><td>🔄 Active</td></tr>
-    <tr><td>Cloud Security (AWS IAM, Azure AD)</td><td>Ongoing</td><td>🔄 Active</td></tr>
-    <tr><td>Endpoint Detection & Response (EDR)</td><td>Ongoing</td><td>🔄 Active</td></tr>
-    <tr><td>Zero Trust & Identity Security</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  <h4>📦 Core Technologies</h4>
+  <table>
+    <thead>
+      <tr><th>Category</th><th>Technologies</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Languages</strong></td><td>Python, SQL, Bash, YAML</td></tr>
+      <tr><td><strong>Frameworks</strong></td><td>Flask, FastAPI, Django, Pytest</td></tr>
+      <tr><td><strong>Data & ML</strong></td><td>Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</td></tr>
+      <tr><td><strong>Cloud & Infra</strong></td><td>AWS (Lambda, EC2, S3), Azure, Docker, Terraform</td></tr>
+      <tr><td><strong>Security</strong></td><td>OAuth2, JWT, Hashlib, Argon2</td></tr>
+      <tr><td><strong>APIs & Protocols</strong></td><td>REST, GraphQL, WebSockets, OpenAPI/Swagger</td></tr>
+      <tr><td><strong>Database</strong></td><td>PostgreSQL, MongoDB, Redis, SQLAlchemy</td></tr>
+      <tr><td><strong>Testing</strong></td><td>Unittest, Pytest, Coverage.py, Hypothesis</td></tr>
+      <tr><td><strong>Tooling</strong></td><td>Git, GitHub, VS Code, Black, Pylint, Makefiles</td></tr>
+      <tr><td><strong>DevOps</strong></td><td>Docker, Kubernetes (K8s), GitHub Actions, CI/CD</td></tr>
+      <tr><td><strong>AI Integration</strong></td><td>LangChain, OpenAI SDK, Hugging Face Transformers</td></tr>
+      <tr><td><strong>Modern Practices</strong></td><td>AsyncIO, Microservices, Event-driven Design, TDD, Clean Architecture</td></tr>
+    </tbody>
   </table>
 
-  <h3>💡 Skill Mastery</h3>
-  <p><strong>SIEM & Log Analysis</strong>: ●●●●○ (75%)</p>
-  <p><strong>Incident Response</strong>: ●●●●○ (80%)</p>
-  <p><strong>Threat Intelligence</strong>: ●●●●○ (75%)</p>
-  <p><strong>Network Security</strong>: ●●●●○ (80%)</p>
-  <p><strong>Cloud Security</strong>: ●●●○○ (60%)</p>
-  <p><strong>EDR & Endpoint Monitoring</strong>: ●●●●○ (75%)</p>
+  <h4>📈 Skill Visualization</h4>
+  <table>
+    <thead>
+      <tr><th>Skill</th><th>Mastery Level</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Flask & FastAPI</td><td>●●●●● (90%)</td></tr>
+      <tr><td>Django</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>Pandas & NumPy</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Scikit-learn</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Docker & CI/CD</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>AWS Integration</td><td>●●●○○ (65%)</td></tr>
+      <tr><td>LangChain/OpenAI</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>SQL & SQLAlchemy</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>GraphQL</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>Testing & Coverage</td><td>●●●●○ (85%)</td></tr>
+    </tbody>
+  </table>
+
+  <h4>🧠 Practical Projects</h4>
+  <ul>
+    <li><strong>AutoSendr</strong> – Automated email dispatcher with scheduler & logging</li>
+    <li><strong>SmartLibrary API</strong> – RESTful microservice with PostgreSQL + JWT</li>
+    <li><strong>PyWarden</strong> – Lightweight CLI password manager with encryption</li>
+    <li><strong>Data Insights Hub</strong> – Data viz dashboard using Pandas + Plotly</li>
+    <li><strong>ML Job Predictor</strong> – Scikit-learn + LangChain prediction service</li>
+    <li><strong>AI Resume Matcher</strong> – OpenAI-enhanced FastAPI project</li>
+  </ul>
 </details>
 
 <details>
-  <summary>🚀 DevOps / Cloud Engineer Path – From Scripting to IaC & CI/CD</summary>
+  <summary>🧠 Cybersecurity & SOC Engineer Path – Detect, Protect & Respond</summary>
 
-  <p><strong>📅 Timeline: May 2024 – Present</strong></p>
+  <p><strong>📅 Timeline: Jan 2025 – July 2025</strong></p>
+  <p><strong>Powerlearn Project Security Analyst Bootcamp</strong></p>
 
-  <table width="100%" style="font-size:14px; margin: 16px 0;">
-    <tr><th>Phase</th><th>Skill</th><th>Duration</th><th>Status</th></tr>
-    
-    <tr><td rowspan="3"><strong>Dev Foundations</strong></td><td>Linux & Shell Scripting (Bash)</td><td>May - Jul 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Git & GitHub (Workflows, PRs)</td><td>Aug 2024</td><td>✅ Completed</td></tr>
-    <tr><td>SSH, Permissions, System Monitoring</td><td>Sep 2024</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="4"><strong>CI/CD & Containers</strong></td><td>Docker (Images, Containers, Volumes)</td><td>Oct 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Docker Compose & Multi-Service Apps</td><td>Nov 2024</td><td>✅ Completed</td></tr>
-    <tr><td>CI/CD with GitHub Actions</td><td>Dec 2024</td><td>✅ Completed</td></tr>
-    <tr><td>Automated Testing & Deployment</td><td>Jan 2025</td><td>✅ Completed</td></tr>
-
-    <tr><td rowspan="5"><strong>Cloud & IaC</strong></td><td>Cloud Platforms (AWS, Render, GCP)</td><td>Feb - Apr 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Infrastructure as Code (Terraform)</td><td>May - Jun 2025</td><td>✅ Completed</td></tr>
-    <tr><td>Serverless (AWS Lambda, Cloud Functions)</td><td>Jul 2025</td><td>🔄 Active</td></tr>
-    <tr><td>Kubernetes Basics (k8s, Helm)</td><td>Ongoing</td><td>🔄 Active</td></tr>
-    <tr><td>Monitoring (Prometheus, Grafana)</td><td>Ongoing</td><td>🔄 Active</td></tr>
+  <h4>📦 Core Technologies</h4>
+  <table>
+    <thead>
+      <tr><th>Category</th><th>Technologies</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>SIEM & XDR</strong></td><td>Microsoft Defender XDR, Sentinel, Splunk, Elastic Stack</td></tr>
+      <tr><td><strong>Query Languages</strong></td><td>KQL (Kusto Query Language), SPL (Splunk Processing Language)</td></tr>
+      <tr><td><strong>Threat Detection</strong></td><td>MITRE ATT&CK, Sigma Rules, YARA, IOC analysis</td></tr>
+      <tr><td><strong>Endpoint Security</strong></td><td>EDR, Defender for Endpoint, Sysmon, Intune</td></tr>
+      <tr><td><strong>Network Security</strong></td><td>Firewalls, Network ACLs, Zeek, Suricata, Wireshark</td></tr>
+      <tr><td><strong>Identity & Access</strong></td><td>Azure AD, RBAC, MFA, SAML, OAuth2</td></tr>
+      <tr><td><strong>Incident Response</strong></td><td>SOAR, Playbooks, Alerting Logic, Threat Hunting</td></tr>
+      <tr><td><strong>Threat Intel</strong></td><td>VirusTotal, GreyNoise, AbuseIPDB, MISP</td></tr>
+      <tr><td><strong>DevSecOps</strong></td><td>Static Code Analysis, Secrets Scanning, SAST/DAST Tools</td></tr>
+      <tr><td><strong>Cloud Security</strong></td><td>AWS IAM, VPC ACLs, GuardDuty, Azure Defender</td></tr>
+    </tbody>
   </table>
 
-  <h3>💡 Skill Mastery</h3>
-  <p><strong>Docker</strong>: ●●●●● (90%)</p>
-  <p><strong>GitHub Actions</strong>: ●●●●● (90%)</p>
-  <p><strong>CI/CD Pipelines</strong>: ●●●●● (90%)</p>
-  <p><strong>Terraform (IaC)</strong>: ●●●○○ (60%)</p>
-  <p><strong>AWS & Cloud</strong>: ●●●●○ (75%)</p>
-  <p><strong>Kubernetes</strong>: ●●●○○ (60%)</p>
+  <h4>📈 Skill Visualization</h4>
+  <table>
+    <thead>
+      <tr><th>Skill</th><th>Mastery Level</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Microsoft Defender XDR</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>KQL & Query Mastery</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Threat Hunting</td><td>●●●●● (90%)</td></tr>
+      <tr><td>Incident Response Playbooks</td><td>●●●○○ (60%)</td></tr>
+      <tr><td>Network ACLs & Firewall Config</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>SIEM Tools (Sentinel/Splunk)</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Endpoint Hardening</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>SOAR Automation</td><td>●●●○○ (65%)</td></tr>
+      <tr><td>Threat Intelligence Use</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Cloud Security Practices</td><td>●●●●○ (75%)</td></tr>
+    </tbody>
+  </table>
+
+  <h4>🧠 Practical Projects</h4>
+  <ul>
+    <li><strong>Defender Dashboard</strong> – KQL-driven visualization for active threats</li>
+    <li><strong>ThreatHunter Toolkit</strong> – Custom hunting queries across log sources</li>
+    <li><strong>Red Team Sim</strong> – Simulated attack chain mapped to MITRE techniques</li>
+    <li><strong>CloudShield</strong> – AWS & Azure resource hardening & IAM config</li>
+    <li><strong>IOC Recon Bot</strong> – GreyNoise + VirusTotal-driven enrichment pipeline</li>
+    <li><strong>SOAR Playbook Builder</strong> – Python-coded workflow for incident triage</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🚀 DevOps Engineer Path – Build, Ship, and Scale With Confidence</summary>
+
+  <p><strong>📅 Timeline: June 2025 – Present</strong></p>
+
+  <h4>📦 Core Technologies</h4>
+  <table>
+    <thead><tr><th>Category</th><th>Technologies</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Version Control</strong></td><td>Git, GitHub, GitLab</td></tr>
+      <tr><td><strong>Containerization</strong></td><td>Docker, Podman</td></tr>
+      <tr><td><strong>Orchestration</strong></td><td>Kubernetes (K8s), Helm, K9s</td></tr>
+      <tr><td><strong>CI/CD Pipelines</strong></td><td>GitHub Actions, Jenkins, ArgoCD</td></tr>
+      <tr><td><strong>Infrastructure as Code</strong></td><td>Terraform, Ansible, Pulumi</td></tr>
+      <tr><td><strong>Monitoring & Logging</strong></td><td>Prometheus, Grafana, ELK Stack</td></tr>
+      <tr><td><strong>Cloud Integration</strong></td><td>AWS, Azure, GCP, OpenShift</td></tr>
+      <tr><td><strong>Secrets Management</strong></td><td>HashiCorp Vault, Doppler</td></tr>
+      <tr><td><strong>Scripting & Automation</strong></td><td>Bash, Python, Makefiles</td></tr>
+      <tr><td><strong>Security & Compliance</strong></td><td>OWASP, SAST/DAST, Aqua Trivy, Falco</td></tr>
+    </tbody>
+  </table>
+
+  <h4>📈 Skill Visualization</h4>
+  <table>
+    <thead><tr><th>Skill</th><th>Mastery Level</th></tr></thead>
+    <tbody>
+      <tr><td>Terraform</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Docker</td><td>●●●●● (90%)</td></tr>
+      <tr><td>Kubernetes</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>GitHub Actions</td><td>●●●●● (90%)</td></tr>
+      <tr><td>CI/CD Workflows</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Prometheus & Grafana</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Vault & Secrets</td><td>●●●○○ (65%)</td></tr>
+    </tbody>
+  </table>
+
+  <h4>🧠 Practical Projects</h4>
+  <ul>
+    <li><strong>InfraPack</strong> – Terraform-built AWS dev environment with EC2 & S3</li>
+    <li><strong>DockChain</strong> – Dockerized microservices with GitHub CI/CD</li>
+    <li><strong>K8sLive</strong> – Kubernetes-deployed realtime Node app with autoscaling</li>
+    <li><strong>SecureDeploy</strong> – GitOps workflow with Vault-integrated secret rotation</li>
+    <li><strong>MonitorMaster</strong> – Grafana dashboards on custom metrics & alerts</li>
+  </ul>
+</details>
+
+
+<details>
+  <summary>🌐 Cloud & Networking Path – Build Systems That Talk & Scale</summary>
+
+  <p><strong>📅 Timeline: May 2024 – December 2024</strong></p>
+
+  <h4>📦 Core Technologies</h4>
+  <table>
+    <thead><tr><th>Category</th><th>Technologies</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Cloud Platforms</strong></td><td>AWS, Azure, GCP</td></tr>
+      <tr><td><strong>VPC Design</strong></td><td>Subnets (Private/Public), CIDR Blocks, NAT Gateway, Internet Gateway</td></tr>
+      <tr><td><strong>Networking Protocols</strong></td><td>HTTP/S, TCP/IP, DNS, DHCP, ICMP</td></tr>
+      <tr><td><strong>Security Controls</strong></td><td>Network ACLs, Security Groups, IAM Policies, Zero Trust</td></tr>
+      <tr><td><strong>Monitoring Tools</strong></td><td>Wireshark, Zeek, VPC Flow Logs, NetFlow</td></tr>
+      <tr><td><strong>Automation & IaC</strong></td><td>Terraform, AWS CDK, Ansible</td></tr>
+      <tr><td><strong>DNS & Routing</strong></td><td>Route53, DNS Zones, BGP, Static & Dynamic Routing</td></tr>
+      <tr><td><strong>Hybrid Connectivity</strong></td><td>VPC Peering, VPN, DirectConnect, Load Balancers</td></tr>
+      <tr><td><strong>Cloud Security</strong></td><td>GuardDuty, Security Hub, Azure Defender, IAM MFA</td></tr>
+      <tr><td><strong>Identity & Access</strong></td><td>OAuth2, IAM Roles, RBAC, Federation</td></tr>
+    </tbody>
+  </table>
+
+  <h4>📈 Skill Visualization</h4>
+  <table>
+    <thead><tr><th>Skill</th><th>Mastery Level</th></tr></thead>
+    <tbody>
+      <tr><td>AWS VPC Setup</td><td>●●●●○ (85%)</td></tr>
+      <tr><td>NAT & IGW Routing</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>ACLs & Security Groups</td><td>●●●●● (90%)</td></tr>
+      <tr><td>Terraform (AWS Modules)</td><td>●●●●○ (75%)</td></tr>
+      <tr><td>DNS & Routing Tables</td><td>●●●○○ (65%)</td></tr>
+      <tr><td>Cloud IAM & RBAC</td><td>●●●●○ (80%)</td></tr>
+      <tr><td>Protocol Fluency</td><td>●●●●○ (80%)</td></tr>
+    </tbody>
+  </table>
+
+  <h4>🧠 Practical Projects</h4>
+  <ul>
+    <li><strong>CloudNet Builder</strong> – VPC with multi-tier subnet setup (NAT, IGW, EC2)</li>
+    <li><strong>SecureRoute</strong> – Terraform-deployed VPN peering & routing rules</li>
+    <li><strong>DNS Insight</strong> – Route53 integrated logging & health monitoring</li>
+    <li><strong>ThreatDetect VPC</strong> – Flow log analysis + GuardDuty alert pipeline</li>
+    <li><strong>PolicyShield</strong> – IAM-driven access control & security audit automation</li>
+  </ul>
 </details>
 
 ---
@@ -322,8 +424,6 @@ Whether you’re a developer, recruiter, or fellow tech mind — DM me for colla
 <div style="background-color:#f6f8fa; border-radius:12px; padding:16px; margin:16px 0; font-family:monospace; font-size:14px; line-height:1.6;">
   <strong>📬 How to Reach Me:</strong><br>
   • <strong>Email</strong>: <a href="mailto:gituraezekiel@gmail.com">gituraezekiel@gmail.com</a><br>
-  • <strong>Portfolio</strong>: <a href="https://kassiopei.vercel.app" target="_blank">kassiopei.vercel.app</a><br>
-  • <strong>Blog</strong>: <a href="https://blog.kassiopei.tech" target="_blank">blog.kassiopei.tech</a><br>
   • <strong>Mobile (WhatsApp)</strong>: <a href="https://wa.me/254727550182" target="_blank">+254 727 550182</a><br>
   • <strong>Location</strong>: Kiambu, Kenya 🇰🇪
 </div>
