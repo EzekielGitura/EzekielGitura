@@ -32,7 +32,8 @@ What I work with
 Let me know if you want more details on any of these—I’m always happy to dive deeper!
 
 
-Let’s connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezekiel-waweru) 
+Let’s connect
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezekiel-waweru) 
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://waweruezekiel.substack.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gituraezekiel@gmail.com)
 [![Phone/WhatsApp](https://img.shields.io/badge/Phone%20or%20WhatsApp-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254727550182)
