@@ -15,7 +15,7 @@
 
 # 💫 About Me
 
-Hey there   I’m Ezekiel Waweru—a full-stack developer from Kenya who spends his days building fast, scalable, and seriously secure web apps (MERN stack + cloud-native everything). When I’m not writing code, you’ll probably find me out on the family farm tending to crops and animals, or deep in a late-night FPS session strategizing my way to victory. That mix of real-world problem-solving—whether it’s fixing a tractor or outmaneuvering opponents—keeps me sharp and fuels how I approach development.Security isn’t a checkbox for me; it’s baked into everything I do. 
+Hey there   I’m Ezekiel Waweru—a full-stack developer from Kenya who spends his days building fast, scalable, and seriously secure web apps (MERN stack + cloud-native everything). When I’m not writing code, you’ll probably find me out on the family farm tending to crops and animals, or deep in a late-night FPS session strategizing my way to victory. That mix of real-world problem-solving—whether it’s growing something or outmaneuvering opponents—keeps me sharp and fuels how I approach development. 
 
 ___
 
@@ -23,7 +23,8 @@ What I work with
 - Frontend / UI: React.js (hooks, context, custom components), Redux for state management, Tailwind CSS for rapid and responsive styling—always mobile-first.
 - Backend: Node.js + Express for APIs, Python heavily (Django for web apps, FastAPI when I need speed, plus scripting/automation and dataset processing).
 - Languages & Frameworks: JavaScript (full-stack with Node, React), Python (my go-to for backend, automation, and working with data), comfortable prompting AI models—fine-tuning prompts, debugging AI outputs,and chaining workflows.
-- Databases: PostgreSQL (my primary choice—love its reliability and constraints), MongoDB for flexible schemas when needed.Ocassionally, MySQL. - Cloud & Infrastructure:
+- Databases: PostgreSQL (my primary choice—love its reliability and constraints), MongoDB for flexible schemas when needed.Ocassionally, MySQL. 
+- Cloud & Infrastructure:
  - AWS: Lambda (serverless), EC2, S3, IAM, RDS, plus some experience with SQS, SNS, and CloudWatch.
  - Azure: App Services, Virtual Machines, basic networking.
  - Docker for containerization.
