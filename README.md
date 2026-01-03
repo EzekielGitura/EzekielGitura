@@ -3,8 +3,7 @@
 <span style="color:#00FF00">$ whoami</span>
 <span style="color:#00CCFF">> Ezekiel Waweru</span>
 
-<span style="color:#00FF00">$ echo "Fullstack Dev + Blue Team + DevOps"</span>
-<span style="color:#00CCFF">> Building secure systems since 2024</span>
+<span style="color:#00FF00">$ echo "Full-stack Developer"</span>
 
 <span style="color:#00FF00">$ ./start_profile.sh</span>
 <span style="color:#00CCFF">> Loading... ✅ Ready for collaboration!</span>
