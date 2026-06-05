@@ -162,7 +162,8 @@ I publish technical notes and deep dives on software development, cybersecurity,
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EzekielGitura&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
-```
+
+---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
