@@ -124,7 +124,7 @@ These cards show the languages used across my public GitHub projects. They are o
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EzekielGitura&theme=github_dark" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzekielGitura&theme=github_dark&utcOffset=3" alt="Most productive time, GMT +3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzekielGitura&theme=github_dark&utcOffset=3" alt="Commits, GMT +3" />
 </p>
 
 <p align="left">
