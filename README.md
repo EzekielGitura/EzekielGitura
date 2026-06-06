@@ -36,7 +36,7 @@ I work mainly with the MERN stack, Python, cloud platforms, APIs, databases, and
 
 * Building secure full-stack applications with the MERN stack and Python.
 * Strengthening DevSecOps, cloud security, and Kubernetes security fundamentals.
-* Practicing SOC analysis through labs, CTFs, SIEM projects, and incident response workflows.
+* Practising SOC analysis through labs, CTFs, SIEM projects, and incident response workflows.
 * Exploring AI workflows, prompt engineering, LLM toolchains, and multi-agent collaboration.
 * Writing technical articles on software development, cybersecurity, and computer networking.
 
@@ -124,7 +124,11 @@ These cards show the languages used across my public GitHub projects. They are o
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EzekielGitura&theme=github_dark" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzekielGitura&theme=github_dark&utcOffset=3" alt="Most productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzekielGitura&theme=github_dark&utcOffset=3" alt="Most productive time, GMT +3" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=EzekielGitura&theme=dark&hide_border=false" alt="GitHub streak stats" />
 </p>
 
 ---
